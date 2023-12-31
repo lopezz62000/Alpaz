@@ -1,0 +1,1 @@
+Kobold state located in [[Mount Kalti]]. They are left undisturbed by their reptilian brethren in [[Throldyar]] and [[Qroaz]] although they sometimes throw their shenanigans at them.

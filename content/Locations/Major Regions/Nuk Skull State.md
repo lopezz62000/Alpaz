@@ -1,0 +1,1 @@
+Orc State stationed on [[Mount Grouleac|Grouleac Island]]. It is the largest orc camp on alpaz and they are a constant nuisance to the dwarves of [[Gernrom Caverns]] and [[Trulnyl Caverns]].

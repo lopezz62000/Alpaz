@@ -1,0 +1,1 @@
+A dwarf from [[Ilor]] who was the reason [[Xion Aalrac|Xion]] got stuck in Nol during [[2. The Division|The Division]]. He became [[Xion Aalrac|Xion]]'s husband and moved to Gul during [[3. The Great Unification|The Great Unification]].

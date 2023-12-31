@@ -1,0 +1,1 @@
+Daemyar is a symic hybrid with hydras for one of their arms. They are one of the leaders of the [[Void Space Legion|VSL]]. They appear to have close ties to [[Meili Hue]] and [[Allison Ingrid]].

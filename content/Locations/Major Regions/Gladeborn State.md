@@ -1,0 +1,1 @@
+A state of deurgar and drow located far below [[Kilrakir Peaks]]. The Gladeborn Guild are an organization of Lolthian Drow that caused much misery to the Gulian nations after the [[3. The Great Unification|The Great Unification]].

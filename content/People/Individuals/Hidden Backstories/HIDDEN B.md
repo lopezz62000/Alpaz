@@ -1,0 +1,10 @@
+> [!tip] You can read this, but be aware that this information is not public info on Alpaz. 
+> Most likely, your character does not know this information. However, if you think there's a reason for your character to know this information, let the DM know!
+
+[[Baron]] is a half-elven druid. He was born as [[Laeryn]]'s younger brother. However, as a baby, he was brought back in time by his mother with a prophecy about [[3. The Great Unification|The Great Unification]]. The reasoning, apparently, is that older [[Baron]] visited his own family and told him about the mission their son was meant to go through.
+
+> [[Baron]], Time Explorer "We can only follow our lifelines, the strings that define our lives in the Time Plane. I wish we could do otherwise."
+> 
+> To ensure that the dark dragonborn king Lumiseth was unable to succeed, [[Baron]] went back in time to prepare the world for the Great War. Knowing that he had angered the keepers of time, [[Baron]] never returned to the plane of time. However, with the eager party by his side, he decided to visit it. Upon meeting the Time Dragon, he was immediately punished with the power of the Time plane. True, he was able to see the different timelines, those that are and those that could be. Still, he was cursed with the knowledge that, no matter what he does, he can never save every timeline.
+> 
+> The plane of Time is a border transitive plane. It is mostly void, except for the luminescent blue strings that span from the thin Past to the expanding Future. Between the two regions is the Time Dragon, trimming the non-canonical timelines with the help of the Weavers and Keepers of Time. In the Future, all the creatures in the plane live on cities made from the strings of broken timelines, each city sitting precariously on the strings of the Future which slowly move into the past.

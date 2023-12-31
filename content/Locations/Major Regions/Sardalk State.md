@@ -1,0 +1,2 @@
+
+Goblin state located on [[Mount Yamrean]]. They are the largest goblin camp on Alpaz and a constant nuisance to the dwarves of [[Trulnyl Caverns]], frequently working together with the orcs of [[Nuk Skull State]].

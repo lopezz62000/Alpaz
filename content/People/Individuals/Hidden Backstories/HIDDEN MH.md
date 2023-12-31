@@ -1,0 +1,4 @@
+> [!tip] You can read this, but be aware that this information is not public info on Alpaz. 
+> Most likely, your character does not know this information. However, if you think there's a reason for your character to know this information, let the DM know!
+
+[[Meili Hue|Meili]] kept experimenting with SheeLDs. Their potential as a new drug was great, but she refused to let it fall into the hands of other business people. She worked to establish [[Void Space Legion]]. With the use of SheeLDs, they have been able to rejoin bones and fuse flesh to flesh. As a result, they were able to provide new hope and new abilities to those who needed it. Over time, they meet [[Daemyar]] and Roxanne Ingrid who join the [[Void Space Legion|VSL]] and establish its new purpose as an underground group of mercenaries and vigilantes who would solve the problems the other organizations refuse to address.

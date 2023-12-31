@@ -1,0 +1,1 @@
+A state of grung and locathah. They are located at the southern coast of [[Throldyar]], south of [[Zofrika Pride]] and [[Ghul Dal Pride]].

@@ -1,0 +1,16 @@
+---
+Age: "[[1. The Creation|The Creation]]"
+---
+No one knows how the blood war began.
+
+For all the fiends know, it has gone on since the beginning of time. Some fiends say that when the continent that housed both the Abyss and the Nine Hells sank into a different plane of existence, the demons and the devils fought over what little land was left. Others say that when Iggwilv, the creator of the demonomicon and its seven volumes, died, the devils tried to sieze the artifact in order to gain power over the demons. Others yet say that the demons, in their chaotic nature, have decided to pick a fight against the devils.
+
+The most accepted theory by those in the prime material plane stems from the idea that evil will always win against good. Hence, the pantheons and thunders decided to pit the two evils against each other til the end of time. In this way, the prime material plane and the rest of the planes may live in precarious peace. Some suggest that the great power of the Upper Planes have done so by leaving powerful artifacts in the lower planes, giving the fiends something to fight about.
+
+Despite millennia and millennia of constant strife, no side had been able to gain even a definitive, permanent advantage over the other. Despite their vast differences, the demons and the devils were surprisingly balanced combatants. The chaotic denizens of the Abyss, while far more numerous than the devils, were, true to their alignment, constantly warring amongst themselves. Many layers of the abyss and the lords that control them have formed different alliances, fighting against each other. Among the demon lords, only [[Fraz-urb'luu]] was left alone, doing his own deeds and causing his own chaos. Thus, the demons could contest the might of the Nine Hells only through sheer individual power and their ability to reform. The devils, on the other hand, deployed smaller numbers onto the field, but their warriors were regimented, well-trained and well-disciplined, all the while making incredible use of their generals' ruthless strategies. Furthermore, through [[Asmodeus]]' iron rule, the devils remained lawful and united.
+
+As far as the eye of time can tell, this violent balance will keep the war fueled for an indefinite period of time.
+
+One thing, however, is certain: should one side be able to eliminate all opposition, and thus gain control over the entirety of Linwa, all planes will be in great danger. With no enemies left in the lower planes, the fiendish rulers will turn their attentions towards other worlds and planes, and it is likely that no force could hope to stop them. Even the celestial beings and ancient dragons of the Upper Planes, formidable as they were, could face destruction at the hands of the demons or the devils, weighed down by their alignments demand by the needs of good and justice—the fiends, having no such compunctions or scruples, could easily have used the celestials' morality against them.
+
+As of the writing of this book, the latest moves in the war are being made by Lolth and [[Asmodeus]]. Lolth, with her connections to Alpaz, is trying to gain more power by accessing the elemental planes of Nol. Eilistrae, the only good deity of the drow, is slowing Lolth down. As for [[Asmodeus]], not even the devils know what he is doing.

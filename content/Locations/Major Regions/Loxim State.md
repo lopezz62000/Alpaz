@@ -1,0 +1,1 @@
+Gnome State located in the northeastern part of [[Scratch Rock Range]], deep in caverns where there is plenty of heat.

@@ -1,0 +1,1 @@
+A goliath state located north of [[Xaelyth Dunes]] in the [[Dewsong Desert]].
