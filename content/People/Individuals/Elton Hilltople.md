@@ -3,7 +3,7 @@ aliases:
   - Elton
 Party: "[[The Agents of Chaos]]"
 ---
-Elton is a halfing bard/warlock of the fathomless. He met [[Aster Winterhurst|Aster]] in [[Throldyar]], both of whom go to investigate the sudden but brief reopening of a portal to Nol due to a widespread prophecy that with its opening comes war. With the help of an anonymous sponsor, they learn of the King Lumiseth's plan to control elemental creatures and overthrow all kingdoms. Given that the legendary elemental weapons have sway over the creatures, they set out to collect them before Lumiseth.
+Elton is a halfing bard/warlock of the fathomless. He met [[Aster Winterhurst|Aster]] in [[Throldyar]], both of whom go to investigate the sudden but brief reopening of a portal to Nol due to a widespread prophecy that with its opening comes war. With the help of an anonymous sponsor, they learn of the King Lumiseth's plan to control elemental creatures and overthrow all kingdoms. Given that the legendary [[elemental weapons]] have sway over the creatures, they set out to collect them before Lumiseth.
 
 They first travel to [[Qroaz]], following a trail regarding a mine and some elemental creatures. As they go trough [[Birti Yards]], they encounter gigantic creatures. Though presumed dead and preserved like the rest of the buildings in the country, the purple worm begins to move and attack the duo. The warlock goes down first and is soon followed by [[Aster Winterhurst|Aster]]. For some reason, however, Elton comes back to life and is able to finish off the purple worm. After helping [[Aster Winterhurst|Aster]] back to conciousness and taking a rest, they collect the Inverter Crystal in a mine by [[Mount Kikijith]].
 

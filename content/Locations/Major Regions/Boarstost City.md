@@ -6,7 +6,7 @@ Pro: Grand ships dock at the largest port in the world, transportation and items
 Con: Teleportation is generally frowned upon by Boarstost residents
 Quirk: Many elementals make a home here as they work for Lift and other transportation companies
 ---
-A coastal city where the modern metal ships were born — that is Boarstost. The exact inventor is unknown, although it is rumored that it was [[Tranquil Snow]] themselves who created the exact schematics. It is believed that, during troubled times, [[Tranquil Snow]] would walk Boarstost’s abundant coast lines in order to clear their mind and find inspiration for their inventions. True or not, there is record that the first modern metal ships were indeed deployed from the Boarstost harbor. 
+A coastal city where the modern metal ships were born — that is Boarstost. The exact inventor is unknown, although it is rumored that it was [[Tranquil Snow]] themselves who created the exact schematics. It is believed that [[Tranquil Snow]] was always curious about the sea and what laid under the [[Clouds' Parting|clouds]]. They would walk the coast of Boarstost before they became an inventor, observing. There, they came up with the designs for vehicles that could traverse the water. True or not, there is record that the first modern ships were indeed deployed from the Boarstost harbor. 
 
 Still, back in the day, there was not much to sea in the oceans east of Nol. After all, an invisible barrier prevented any travel between Nol and Gul during [[2. The Division|The Division]], and this included travel through water. However, sightings of otherworldly creatures were common in the waters at the edge of the world.
 

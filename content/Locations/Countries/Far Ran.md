@@ -7,7 +7,7 @@ Far Ran is the only country in Alpaz with no form of government. It is mainly in
 
 Far Ran is famous for its many adventure locations, all of which the Tabaxi are fond of. From mountain-sized monsters to mimic infested dungeons, there is no trip here that cannot be turned into a story (both good and bad). Hence, even though it is not the most habitable of places, the Tabaxi are here to stay. 
 
-Since [[1. The Creation|The Creation]], Tabaxi have been known to store all sorts of notes on their adventures. As time passed, these stories, pictures, and artifacts were stored in the [[Great Library of the North]], open for any traveler to read. It is said that the first recorded discovery of Solen crystals is actually within these archives.
+Since [[1. The Creation|The Creation]], Tabaxi have been known to store all sorts of notes on their adventures. As time passed, these stories, pictures, and artifacts were stored in the [[Great Library of the North]], open for any traveler to read. It is said that the first recorded discovery of [[Solen crystals]] is actually within these archives.
 
 Naturally, [[Alight Entertainment]] has capitalized on the country. The lands of Far Ran are the best elementism destination in all of Alpaz, with adventuring trails of all levels of difficulty. Are the Tabaxi concerned? Absolutely not. This just means more people to go on adventures with and more people to save from danger and more people to hear their stories. In addition, [[Leafwalker Industries]] is here to provide all adventurers, new and old, with exactly what they need to survive the day. 
 

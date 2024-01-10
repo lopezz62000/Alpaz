@@ -1,11 +1,12 @@
 ---
 aliases:
   - Divine Allotment
+Age: "[[3. The Great Unification|The Great Unification]]"
 ---
 > [!tip] You can read this, but be aware that this information is not public info on Alpaz. 
 > Most likely, your character does not know this information. However, if you think there's a reason for your character to know this information, let the DM know!
 
-There was a time when all deities could do as they please. During [[1. The Creation|The Creation]], they were even given the chance to create life. In the eyes of Ao, however, it was unfruitful. Most things involved the deities and it was not their intended design. 
+There was a time when all deities could do as they please. However, when Ao returned during [[3. The Great Unification|The Great Unification]] and learned all that had happened, Ao was not pleased. The deities had done nothing to keep the world balanced. 
 
 So Ao changed their function. Each deity gained a portfolio and an alignment. No deity had the same combination of portfolio and alignment. Each deity's powers can only affect things within their portfolio and alignment. Making use of such abilities requires divine sparks.
 

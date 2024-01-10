@@ -5,7 +5,7 @@ Country: "[[Zerathin]]"
 ---
 Zerathin is primarily inhabited by the Tieflings, but it is also home to many of the outcasted species of Alpaz. 
 
-Since [[2. The Division|The Division]], the Tieflings were always hated by the other nations. It was believed that devils, whom they descended from, had a hand in causing the start of the Dawn War. Although this was never confirmed, the Tieflings were persecuted anyways. This, however, was all undone when a Tiefling by the name of [[Sivvean]] helped reunite the worlds during [[3. The Great Unification|The Great Unification]].
+Since [[2. The Division|The Division]], the Tieflings were always hated by the other nations. It was believed that devils, whom they descended from, had a hand in causing the start of the closing of portals. Although this was never confirmed, the Tieflings were persecuted anyways. This, however, was all undone when a Tiefling by the name of [[Sivvean]] helped reunite the worlds during [[3. The Great Unification|The Great Unification]].
 
 Having experienced all this, the nation believed that no other species should experience the same outcasting. Hence, they invited all species to make their home within the lands of Zerathin. 
 
