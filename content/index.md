@@ -6,7 +6,7 @@ title: Welcome to the Alpaz Almanac
 
 Hello! This is the world almanac of Alpaz. The world of Alpaz is where all my campaigns and one shots take place (except the ones on Telofim, you know who you are). I've roughly kept track of its stories in a set of documents in an effort to create a unified lore. However, I never had the time to put everything together. Now that I've had some time, I finally got to put enough of it together. Lore from my first 2 campaigns (3 if you count the Nol and Gul campaigns separate) are 90% here and allusions to all my one shots are here. 
 
-Still, it's a work in progress. So much has happened in this world. I don't even have the main world events there yet – or pictures! I do know that I cannot cover all of it alone. I can't even cover what I have now accurately. Hence, if you have any information you want to add, please please please let me know.
+Still, it's a work in progress. So much has happened in this world. I don't even have the much of the character backstories cleaned up! I do know that I cannot cover all of it alone. I can't even cover what I have now accurately. Hence, if you have any information you want to add, please please please let me know.
 
 Anyways, enjoy!
 

@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 125, // how long should the links be by default?
         fontSize: 0.5, // what size should the node labels be?
         opacityScale: 2, // how quickly do we fade out the labels when zooming out?
-        removeTags: ["Landmark"], // what tags to remove from the graph
+        removeTags: ["#Landmark"], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
       globalGraph: {
@@ -53,7 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 125, // how long should the links be by default?
         fontSize: 0.5, // what size should the node labels be?
         opacityScale: 2, // how quickly do we fade out the labels when zooming out?
-        removeTags: ["Landmark"], // what tags to remove from the graph
+        removeTags: ["#Landmark"], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
       },
     }),
