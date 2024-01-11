@@ -3,6 +3,10 @@ aliases:
   - Ryllae
 Party: "[[The Kaeto Party]]"
 ---
+> [!info]
+> Currently runs a temple in [[Nyssira Pride]] to the demiurge and a monastery in [[Gue Xus Fort]]
+
+![[Laeryn_Token.png|200]]
 
 Laeryn is a wood elf with copper skin and bright green eyes. She is a brunette and has her hair tied up into a braid that rests on her left shoulder. She sports short brown boots, long sleeve white shirt, and a leather-type corset around the abdomen. In the past few years, she has practiced the monastic tradition of mercy as a monk, learning through the Ascension Monastery. Furthermore, Laeryn has a unique relationship with a deity known as the Demiurge, the purpose of which is she has yet to discover.
 

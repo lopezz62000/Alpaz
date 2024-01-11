@@ -1,6 +1,11 @@
 ---
 Party: "[[The Agents of Chaos]]"
 ---
+> [!info]
+> Currently in hell though [[HIDDEN LR]] suggests otherwise
+
+![[Naevvis_Token.png|200]]
+
 Sivvean was a tiefling sorcerer and a good friend of Riam.
 
 He was forced through the portal when it briefly reopened, travelling from [[Gue Xus Fort]] to [[Greffol City]]. His abductors were chased away by a dragonborn, leaving the tiefling behind in a world without people like himself. He finds a party who were willing to help him get back. However, before they could go back to the portal, they are ambushed by a group of kenku. The dragonborn returns to help in the fight, introducing himself as Xion, another Gulian in the world of Nol. The world glitches and the rest of their party disappears, only to be replaced by [[Jokarius Heirophant|Jokarius]] and [[Kyren]]. 

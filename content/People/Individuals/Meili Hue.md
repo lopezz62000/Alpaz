@@ -3,6 +3,9 @@ aliases:
   - Meili
 Party: "[[The Agents of Chaos]]"
 ---
+> [!info]
+> Currently dead
+
 Meili Hue was the shrewdest businesswoman alive.
 
 She was good friends with [[Wolfgang]], traveling Gul together as the last remaining Nologites in the continent during [[2. The Division|The Division]]. They met [[Aster Winterhurst|Aster]] and [[Elton Hilltople|Elton]] when they were staying at [[Barnemouth Grove]] in [[Dreamsprout]], the last standing fortress against the invasion of earth elementals. There, they also meet the group's unknown sponsor who updates them on the situation of the portal. Apparently, technological locks have been put in place on the portal in order to prevent anyone from using the portal. However, Lumiseth has been trying to find ways to open the lock and preparing to conquer both continents of Alpaz. They believe that this is what the prophecy was alluding to. If anyone knows how the lock works, the Vedalken would know since they are the most technologically adept race in Gul. Since an elemental weapon needed to push back the elementals rests in [[Oze Municipality|Oze]] and the Vedalken are the people of [[Nhovell]], they decide to head to north. 

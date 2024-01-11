@@ -3,6 +3,11 @@ aliases:
   - Andy
 Party: "[[The Kaeto Party]]"
 ---
+> [!info]
+> Current location unknown
+
+![[Andy.png|200]]
+
 Andrew Osorin (a.k.a. Andy) is a 5'6 half-elf sporting black poofy hair with fading streaks of pink. Portions of his body appear silvered due to too much body glitter. Despite his adventuring life, he is wearing luxurious light-weight business casual. More specifically, he has an ascot shirt, tailored waistcoat, and lightly patterned pants. All this is switched with a more sleek black color scheme complete with an almost-too-large top hat. He is a draconic sorcerer who hides behind self-proclaimed titles, unaware of his true lineage.
 
 ### Arc I: Demon's Debut

@@ -3,11 +3,14 @@ tags:
   - Country
 Country: "[[Far Ran]]"
 ---
-Far Ran is the only country in Alpaz with no form of government. It is mainly inhabited by Tabaxi clans, although it is also home to Giants, some types Elementals, and many dangerous creatures. In addition, it is said that Dragons once made their homes within the mountains of Far Ran before they disappeared. 
+![[Faye Ran Logo.png|200]]
+
+Far Ran is the only country in Alpaz with no form of government. It is mainly inhabited by Tabaxi clans, although it is also home to Giants, some types Elementals, and many dangerous creatures. In addition, it is said that Dragons once made their homes within the lands of Far Ran before they disappeared. When the [[Draconic Exodus]] occured, the Tabaxi clans were quick to move into their caves. However, the Tabaxi were never one to stay in the same place for extended periods of time. Instead, they became outposts for Tabaxi and a welcome resting ground for adventurers.
+
+> [!tip] Fun Fact
+> Since [[1. The Creation|The Creation]], Tabaxi have been known to store all sorts of notes on their adventures. As time passed, these stories, pictures, and artifacts were stored in the [[Great Library of the North]], open for any traveler to read. [[The Discovery of Solen]] is actually within these archives. According to the records, the lands of Far Ran were once a battlefield of the dragons. The records say that many of the dragons were in fact deceived by fiends to join the battle, possibly for reasons of the [[Blood War]] for a very long time. As a result, the land is quite desolate and devoid of life. [[Tranquil Snow]] speculates that from the deaths of the dragons, [[Solen Crystals]] were created. They grew out of the lands of Far Ran, collected by the fiends and discovered by [[Tranquil Snow]]. True enough, when the dragons left as part of the [[Draconic Exodus]], Solen Crystals were not found again. 
 
 Far Ran is famous for its many adventure locations, all of which the Tabaxi are fond of. From mountain-sized monsters to mimic infested dungeons, there is no trip here that cannot be turned into a story (both good and bad). Hence, even though it is not the most habitable of places, the Tabaxi are here to stay. 
-
-Since [[1. The Creation|The Creation]], Tabaxi have been known to store all sorts of notes on their adventures. As time passed, these stories, pictures, and artifacts were stored in the [[Great Library of the North]], open for any traveler to read. It is said that the first recorded discovery of [[Solen crystals]] is actually within these archives.
 
 Naturally, [[Alight Entertainment]] has capitalized on the country. The lands of Far Ran are the best elementism destination in all of Alpaz, with adventuring trails of all levels of difficulty. Are the Tabaxi concerned? Absolutely not. This just means more people to go on adventures with and more people to save from danger and more people to hear their stories. In addition, [[Leafwalker Industries]] is here to provide all adventurers, new and old, with exactly what they need to survive the day. 
 

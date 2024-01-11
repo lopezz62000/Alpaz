@@ -3,13 +3,17 @@ tags:
   - Country
 Country: "[[Ilor]]"
 ---
+![[Ilor Logo.png|200]]
+
 Ilor, the mining archipelago country, is ruled by dwarves. However, there are actually more kobolds and gnomes living here than dwarves. 
 
 Dwarves loved gold as it created the most beautiful metallurgic crafts which they gave as offerings to Moradin, the Dwarffather. During [[2. The Division|The Division]], the dwarves only mined for gold and iron, the latter of which was only valuable since it helped them mine more gold. As they continued to mine, they discovered the kobolds and gnomes which seemed to spawn out of nowhere. However, they were not much of a bother in their business of gaining more gold. 
 
 Soon, however, there was no more gold to gather and infighting began. Iron and mithril were taken from the mines, not to find more gold but to shed blood. In no time, the number of dwarves dwindled and the kobolds and gnomes ran all over. During this time, the land of Ilor became attractive to goblins and orcs who thought they could replace the primary inhabitants of the land. During this time, the Dwarves reunited to fight against a common enemy and was blessed by Moradin with new mountains filled with iron and mithril, but there was no new gold to be found. In remembrance of this, the Dwarves, to this day, carve memorials in deep caverns to their Dwarffather.
 
-There were, however, a group of dwarves who got greedy and defected from the war against the goblins and orcs to dig deeper in old mines. Instead of finding the gold they were hoping for, they only found captivity among mind flayers who turned them into Deurgar. 
+There were, however, a group of dwarves who got greedy and defected from the war against the goblins and orcs to dig deeper in old mines. Instead of finding the gold they were hoping for, they only found captivity among the most powerful evil dragons who turned them into Deurgar. When the [[Draconic Exodus]] occured and their dragon masters left, the Deurgar were freed to do as they wish. 
+
+When the clouds above Ilor [[Clouds' Parting|parted]], many changes occurred to Ilor. Metal ships began to set sail from the ports of the mountains, speeding up the [[Clouds' Parting]]. In addition, the Deurgar, gnomes, kobolds, orcs, and goblins all left the country, seeking a new place to call home. It is said that when the [[Misaligned Alignment]] began, the peoples who stayed together were able to establish communities in lands beyond Ilor. 
 
 By the time of [[3. The Great Unification|The Great Unification]], many more types of ore became valuable to the world. Hence, they revisited all their mines to get more ore for the whole world. Today, Ilor remains the richest country in the world. In the end, the Dwarves still ended up with more gold than they dreamed of. 
 

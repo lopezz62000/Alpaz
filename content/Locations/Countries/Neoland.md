@@ -3,15 +3,17 @@ tags:
   - Country
 Country: "[[Neoland]]"
 ---
+![[Neoland Logo.png|200]]
+
 Neoland is the newest country in Alpaz. Its inhabitants are mostly halflings. 
 
-The land was discovered by [[The Explorer]] on their journey to map out the world of Alpaz. Upon its discovery, the cartographer was surprised to see the land inhabited by halflings. Although halflings were already present in the main two continents, they never had a true home country until that day. 
+The land was discovered by [[The Explorer]] on their journey to map out the world of Alpaz when the [[Clouds' Parting]] took effect in the region. Upon its discovery, the cartographer was surprised to see the land inhabited by halflings. In truth, among all the people who ventured out into the darkness of the clouds, only the halflings found survived by finding a new home among the islands of Neoland.
 
-It is unknown on what side of the barrier Neoland was in during [[2. The Division|The Division]]. However, it’s people were quick to make social connections with the world. Hence, whatever technological and magical progress it had missed during that age was quickly regained. 
+It is unknown on what side of the barrier Neoland was in during [[2. The Division|The Division]]. However, it’s people were quick to make social connections with the world. Hence, whatever technological and magical progress it had missed during that age was quickly regained. In fact, they did so at speeds ten times faster than any other nation. 
 
-To capitalize on all this was Fastrada Leafwalker who united the businesses of Alpaz to form [[Leafwalker Industries]]. Having grown up in a country which had none of the resources of either Gul and Nol, Fastrada ensured that basic and adventuring commodities were available in all countries. Of course, in the process, she made herself and many business owners very rich. 
+Seeing that countries were still struggling to recover from the [[Vacuous Magistrum]] and [[Lumiseth’s Campaign]], Fastrada Leafwalker took advantage. She the businesses of Alpaz to form [[Leafwalker Industries]]. Having grown up in a country which had none of the resources of either Gul and Nol, Fastrada ensured that basic and adventuring commodities were available in all countries. Of course, in the process, she made herself and many business owners very rich. 
 
- Leafwalker, unfortunately, died in the year 151 UY. The circumstances of her death are still unknown. 
+Leafwalker, unfortunately, died in the year 151 UY. The circumstances of her death are still unknown. 
 
 Neoland has great standings with [[Siaga]], sponsoring many new inventors and helping them create the next big business. The country actually has negative relations with [[Alight Entertainment]], seeing them as a competitor. After all, people only had so much money to go around. The country has slightly positive relations with [[Race United]] and [[Urifir Bookbasin]], both good business partners and sources of information for the next big thing. 
 

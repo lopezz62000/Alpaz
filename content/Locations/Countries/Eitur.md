@@ -3,9 +3,13 @@ tags:
   - Country
 Country: "[[Eitur]]"
 ---
-Eitur, the land of progress. Originally tasked with guarding the portal during [[2. The Division|The Division]], they immediately went to work to make the tools needed to succeed in their jobs. Although the humans who primarily inhabited the country were not necessarily the brightest in the land, they did know how to work together. Furthermore, they were the bravest, daring to travel the world of Nol to recruit individuals who could help them in their task. 
+![[Eitur Logo.png|200]]
 
-The best of these recruits was [[Tranquil Snow]], a Tabaxi who had discovered many things including the powers of [[Solen crystals]]. The nation of Eitur made quick progress, developing weapons and technologies faster than any nation. Soon enough, the portal was secured with a lock that immediately disintegrated anything that came near it. In addition to this, [[Tranquil Snow]] created the Tinker Boxes, items that created magic-like effects in a world without any magic. Soon after these achievements, however, [[Tranquil Snow]] was assassinated by drow. The original Tinker Boxes were stolen and any information on the portal locks was lost. 
+Eitur, the land of progress and home of the humans. During [[2. The Division|The Division]], it was a land with many portals connecting to Gul, the most famous of which being at the [[Arch of Kalashtar]]. However, with these portals came many attacks, a lot of which were actually forces of the [[Blood War]], seeking new resources and souls to tip the scales of war to their side. This brought nothing but fear among the humans. 
+
+Quickly, they looked for ways to close the portal or, if not, develop new technologies that would help them protect themselves against the fiendish incursion. Although the humans who primarily inhabited the country were not necessarily the brightest in the land, they did know how to work together. Furthermore, they were the bravest, daring to travel the world of Nol to recruit individuals who could help them in their task. 
+
+The best of these recruits was [[Tranquil Snow]], a Tabaxi who was responsible for [[The Discovery of Solen]]. With the [[Solen Crystals]], the nation of Eitur made quick progress, developing weapons and technologies faster than any nation. Soon enough, the portal was guarded by much artificery. In addition to this, [[Tranquil Snow]] created the Tinker Boxes, items that created magic-like effects in a world without any magic. Finally, when the portals closed, they were sealed with the grand artificer's technologies. Soon after these achievements, however, [[Tranquil Snow]] was assassinated. The original Tinker Boxes were stolen and any information on the portal locks was lost. 
 
 During [[3. The Great Unification|The Great Unification]], the people of Eitur took it upon themselves to honor the fallen inventor. Thus, [[Siaga]] was born. Much like the beginnings of the nation, the organization seeks the brightest minds and gives them the resources to create what they could imagine. With so much inventions born from it, Eitur quickly became the center of technology in Alpaz. 
 

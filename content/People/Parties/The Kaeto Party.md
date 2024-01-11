@@ -33,7 +33,7 @@ The party decides to get some rest and spends a day at the carnival. There, they
 
 Upon arrival, the party finds that there is no drow on the island. Instead, the party discovers that the islands have become a base of operations, with the devils building weapons, transportation, and an army of new creatures. After freeing an imprisoned drow and getting chased by an island of enemies, Eillistraee opens a portal for them, transporting them to the unnamed island of the drow.
 
-There, they find the sworddancers, including Ginoon, the bearer of the white Arcobaleno ring, [[Wanothee]], the Keeper of Space, and [[Reysta Summerburst|Reysta]], an old friend of [[Jokarius Heirophant|Jokyr]] and Emery. As the party learns of their history, the meet Eillistraee and ask her to take the position of the chaos triune. Given the large shoes to fill and the lack of protection the good drow have, she does not comply. Instead, she offers information about [[Asmodeus]]' possible plans and gives some possible information
+There, they find the sworddancers, including Ginoon, the bearer of the white [[REDACTED AR|Arcobaleno ring]], [[Wanothee]], the Keeper of Space, and [[Reysta Summerburst|Reysta]], an old friend of [[Jokarius Heirophant|Jokyr]] and Emery. As the party learns of their history, the meet Eillistraee and ask her to take the position of the chaos triune. Given the large shoes to fill and the lack of protection the good drow have, she does not comply. Instead, she offers information about [[Asmodeus]]' possible plans and gives some possible information
 
 ### Ongoing plots
 

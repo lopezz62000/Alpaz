@@ -1,0 +1,5 @@
+---
+tags:
+  - Landmark
+Country: "[[Eitur]]"
+---

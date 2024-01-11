@@ -3,9 +3,13 @@ tags:
   - Country
 Country: "[[Dreamsprout]]"
 ---
-Dreamsprout is home to the Onodrim, a plant-based population. There are three types of Onodrim: myconid from mushrooms, poacery from grass and vines, and yeildans from trees and fruits.
+![[Dreamsprout Logo.png|200]]
 
-After [[3. The Great Unification|The Great Unification]], the country has also served as a home away from home for all elementals. Since [[2. The Division|The Division]], the Onodrim have dealt no damage to the resources of their land and have, in fact, nourished it. As a result, elementals grew fond of the land.
+Dreamsprout is home to the Onodrim, a plant-based population. There are three types of Onodrim: myconid from mushrooms, poacery from grass and vines, and yeildans from trees and fruits. All of them were nourished and blessed by their deity, Psilofyr. More plants would have been brought to life and the Onodrim could have spread to more lands, but Psilofyr's disappearance, possible tied to the [[Plucking of Stars]], stopped the race's growth. 
+
+During [[2. The Division|The Division]], Lumiseth never invaded Dreamsprout as part of his [[Lumiseth’s Campaign|campaign]]. He feared that, given the size of the Onodrim population and minimal magical protection, the dragonborn could not overpower them. Instead, he unleashed the earth elementals to trample the lands of the Onodrim, destroying many its lush forests and turning them into graveyards. It was only when members of [[The Agents of Chaos]] and [[Sarkiar d'Poacery]] rose from the gravel did their attacks cease. 
+
+During [[3. The Great Unification|The Great Unification]], the country originally struggled to recover. Many of the magical and non-magical resources the Onodrim depended on were destroyed. However, when the effects of the [[Clouds' Parting]] finally came to the coasts of Dreamsprout, they found other islands where the Onodrim and their cities, albeit smaller, were untouched by [[Lumiseth’s Campaign]]. With their help, Dreamsprout was nourished back to health. 
 
 Dreamsprout’s previous monarch, [[Sarkiar d'Poacery|Sarkiar]] d’Poacery, went to law school in [[Eitur]]. She was a great help in the unification of the two worlds and is a co-founder of the [[Race United]]. She worked with many elementals to make Dreamsprout the home it is today. [[Sarkiar d'Poacery|Sarkiar]] is the only ruler to have remained in power since the beginning of [[3. The Great Unification|The Great Unification]].
 

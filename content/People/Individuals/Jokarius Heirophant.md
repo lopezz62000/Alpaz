@@ -4,6 +4,10 @@ aliases:
   - Jokarius
 Party: "[[The Kaeto Party]]"
 ---
+> [!info]
+> Currently at the edge of the universe, guarding against agents of the far realm
+
+![[Jokyr_Token.png|200]]
 ## Life as Jokarius
 
 Jokarius is an aasimar warlock. He met [[Sivvean]] and [[Kyren]] in [[Greffol City]]. 

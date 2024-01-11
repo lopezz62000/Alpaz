@@ -6,7 +6,7 @@ Pro: Home of the brightest Vedalken minds, specializing in their Roles
 Con: The Vedalken have no time for other things outside of their Roles here
 Quirk: There is no time telling device in the city yet somehow all the Ozean Vedalken suddenly shift tasks, as if on schedule
 ---
-Long before the city of Oze was established as the capital of [[Nhovell]], the land was inhabited by the Vedalken, who were nomadic at the time. They would move from place to place in search of knowledge, and they found themselves drawn to the area that would later become Oze. They were fascinated by the unique energy that emanated from the land and believed it held great power. Hence, a group of Vedalken known as the Masters settled here and studied the land.
+Long before the city of Oze was established as the capital of [[Nhovell]], the land was inhabited by the Vedalken, who were nomadic at the time. They would move from place to place in search of knowledge, and they found themselves drawn to the area that would later become Oze. They were fascinated by the unique energy that emanated from the land and believed it held great power. They had heard tales of [[Solen Crystals]] and believed one of its sources to be within its land. Hence, a group of Vedalken known as the Masters settled here and studied the land.
 
 Soon, the Masters became the leaders of Oze. They were responsible for making decisions that would impact the city and its inhabitants, and they were held in high regard by the Vedalken. Their word was law. Every citizen's Role was defined by the Masters.
 

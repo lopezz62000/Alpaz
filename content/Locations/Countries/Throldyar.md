@@ -3,7 +3,11 @@ tags:
   - Country
 Country: "[[Throldyar]]"
 ---
-The home of the Dragonborn is Throldyar. It has the smallest area among the countries of the Gulian continent. Its people only knew war during [[2. The Division|The Division]]. Being descended from the greatest species in Alpaz, they used to believe it was their destiny to rule the world. In addition, the small area meant limited resources which made it very difficult for many of the Dragonborn to live. Hence, it was inevitable for the former kingdom to wage war on the rest of the world. To this day, the marks of its wars can still be seen in the dilapidated outer cities. 
+![[Throldyar Logo.png|200]]
+
+The home of the Dragonborn is Throldyar. It has the smallest area among the countries of the Gulian continent. Its land used to be protected by the dragons who would very often perch atop the tall buildings of the Dragonborn. 
+
+During [[2. The Division|The Division]], Throldyar went into a rough patch. With the invisible barrier's appearance and the [[Draconic Exodus]], their king falling ill, the dragonborn were uneasy. When the fiends began spreading from open portals to Avernus and the [[Blood War]], the dragonborn thought the worse. However, Lumiseth, their king, awoke and fought back against the fiends. When the battle was over, he promised the Dragonborn power to fight for themselves, a power which he convinced them to use against the rest of the world. Hence, began [[Lumiseth’s Campaign]]. To this day, the marks of its wars can still be seen in the dilapidated outer cities. 
 
 However, Throldyar is a symbol of hope. It is the site where [[The Agents of Chaos]] were formed and took down King Lumiseth during [[3. The Great Unification|The Great Unification]]. It is the site where the world began to change. The people of Throldyar want to keep being that source of hope.
 

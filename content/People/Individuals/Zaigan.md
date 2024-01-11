@@ -1,6 +1,11 @@
 ---
 Party: "[[The Kaeto Party]]"
 ---
+> [!info]
+> Currently tells stories of an overdeity names Ao through the story of [[The Kaeto Party]] all over the world
+
+![[Zaigan_Token.png|200]]
+
 Zaigan is an aasimar, though he doesn't like letting people know that. He is 6-foot tall with tannish gold skin which gives off a subtle glow that's barely noticeable in the dark. He has dirty blond hair and beautiful eyes with gold tints in them. He has a scar that goes from his neck to under his shirt. Initially, his clothes, consisting of a hooded tonic, battle trousers, and a mask, are tattered and his breastplate is covered in dried blood. However, this has been changed to a two-colored short-sleeved hooded cloak, a dark blue tunic, gilded trousers, military boots, and a pure black mask. He also has bandage wraps on both of his wrists and hands, but only one gauntlet for the mace-bearing hand - the other is probably for holding his bottle that brews any alcoholic drink for him on the fly. Despite being a time domain cleric, Zaigan has yet to deal with his past.
 
 ### Arc I: Demon's Debut

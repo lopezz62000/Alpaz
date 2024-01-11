@@ -5,6 +5,11 @@ aliases:
   - Corvus Ved'Mir
 Party: "[[The Kaeto Party]]"
 ---
+> [!info]
+> Currently in [[Beinrin Vale]] and the best jeweler in the world
+
+![[Yusef_Token.png|200]]
+
 Yusef Gravemore is a 6'2" drow elf with dark greyish skin and a slightly thin build. He has very long white hair that goes into a ponytail to keep it tame. His eyes are ruby red and his voice is soft and low. His left ear has a red earring. He wears a collared long-sleeve shirt under a vest and constantly holds an umbrella to keep away from the sun. His smile and good posture make him appear welcoming and respectable, although it is partly to keep a "good" appearance within a society where drow aren't really accepted. With him is a familiar named Lois which takes the form of a hawk. He is a conjuration wizard with a knack for jewelry that comes from a questionable family history.
 
 ### Arc I: Demon's Debut

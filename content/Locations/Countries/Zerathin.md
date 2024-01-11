@@ -3,13 +3,15 @@ tags:
   - Country
 Country: "[[Zerathin]]"
 ---
-Zerathin is primarily inhabited by the Tieflings, but it is also home to many of the outcasted species of Alpaz. 
+![[Zerathin Logo.png|200]]
 
-Since [[2. The Division|The Division]], the Tieflings were always hated by the other nations. It was believed that devils, whom they descended from, had a hand in causing the start of the closing of portals. Although this was never confirmed, the Tieflings were persecuted anyways. This, however, was all undone when a Tiefling by the name of [[Sivvean]] helped reunite the worlds during [[3. The Great Unification|The Great Unification]].
+Zerathin is primarily inhabited by the Tieflings, but it is also home to many of the outcasted species of Alpaz. Tieflings were born of many origins but many of them were exposed to if not born of portals to hell. Blamed for the appearance of portals to the [[Blood War]], Tieflings were cast out of society. But here, in the lands of Zerathin, they found a home. 
+
+Still, when [[2. The Division|The Division]] happened, Zerathin was the first target of [[Lumiseth’s Campaign]]. The Tieflings had only just discovered blood magic and its dangerous properties, but they wielded it with all their might to protect themselves. It was only when [[The Agents of Chaos]] arrive that they were finally safe. With the recognition the world had for [[Sivvean]], a tiefling in the party, the world became more accepting of the Tiefling race by the time of [[3. The Great Unification|The Great Unification]].
 
 Having experienced all this, the nation believed that no other species should experience the same outcasting. Hence, they invited all species to make their home within the lands of Zerathin. 
 
-Recently, during [[4. The Calm|The Calm]], it appears than many of the magical abilities of the Tieflings disappeared. The number of its sorcerers dwindled and even those who used to perform arcane arts could no longer continue doing so. During this time, blood magic spread in the lands of Zerathin along with the emergence of Bloodhunters although it is believed that many have been practicing since the founding of the nation.
+Recently, during [[4. The Calm|The Calm]] and the [[Misaligned Alignment]], it appears than many of the magical abilities of the Tieflings disappeared. The number of its sorcerers dwindled and even those who used to perform arcane arts could no longer continue doing so. During this time, blood magic reappeared inthe lands of Zerathin along with the emergence of Bloodhunters although it is believed that many have been practicing in secret for the past century.
 
 Zerathin is a great ally of the [[Race United]], many of the Tiefling serving as soldiers in its army. In addition, they serve as rescue squads, taking any displaced people and giving them a place to stay in Zerathin. They are also big customers of [[Leafwalker Industries]] and [[Alight Entertainment]], making sure to provide the best comfort for all people living in Zerathin. They do, however, have a slight distaste for [[Urifir Bookbasin]], believing that history could be tainted with lies, resulting in their unfortunate history. 
 
