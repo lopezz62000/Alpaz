@@ -3,6 +3,8 @@ Party: "[[The Kaeto Party]]"
 tags:
   - Party
 ---
+![[kaeto_party.png]]
+
 The Kaeto Party is a group of adventurers made up of [[Andrew Osorin|Andy]], [[BRX-962|Bruiser]], [[Jokarius Heirophant|Jokyr]], [[Laeryn]], [[Qric]], [[Yusef Gravemore|Yusef]], and [[Zaigan]]. Full information [here](https://saga.so/s/px2kqOeueJRWctECCi9v/339b2ac7-a746-4db4-9f5f-547d6566e215).
 
 ### Arc I: Demon's Debut
