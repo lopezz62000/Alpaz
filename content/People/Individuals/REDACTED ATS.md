@@ -1,0 +1,9 @@
+---
+aliases:
+  - Alpha Tranquil Snow
+---
+> [!danger]- DO NOT READ THIS
+> Alpha Tranquil Snow is the original Tranquil Snow. Before his mind, body, soul, and lifespan were split across all the universes, there was only one Tranquil Snow. Son of [[REDACTED FS|Fleeting Snow]], he grew up in the tundras of [[Far Ran]] and was fond of learning artificery. He was often found at the [[Great Library of the North]].
+> When the Starspawn first entered Alpaz, atop the peeks of [[Scratch Rock Range]], Alpha Tranquil Snow was the only witness. There, he saw the tears of reality that gave way for the creatures of the far realm to enter the prime material plane. When the creatures left and the tears began to mend itself, he took a peak and understood. If what he recalled from his time at the Great Library was correct, this was the force that was causing the [[Plucking of Stars]]. This was what would cause the end of the world. 
+> He went home and did his studying. He wanted confirmation and he wanted a solution. However, when he looked for the best future possible, the worst future possible looked back at him – and it smiled. When Tranquil noticed the edges of reality tearing around him, he had to leave and fast. But it was too late. The creature of the far realm found him and cursed him to wander all of the multiverse at random. 
+> Still, Alpha Tranquil Snow was not deterred. He learned where he could and acted when he could. It was a tough battle, but even in the randomness or probably because of the [[Misaligned Alignment]] and the brief year of complete lawfulness in the world, he was able find a solution. The [[HIDDEN RSE|Rune of Stone Eternal]] attached to one of the Replica Ruby Rods. And he brought it home to the only person he could trust: his mother. And now, he waits for something to change. 
