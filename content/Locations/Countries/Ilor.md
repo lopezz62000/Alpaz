@@ -27,13 +27,13 @@ It used to be very difficult to know who the richest Dwarf was in a city. Many o
 
 ### Geographic Information
 
-Ilor is composed of three main islands. In order of decreasing size, these islands are Yamrean Island to the southwest, Grouleac Island to the north, and Numrar Island to the east. Each of these islands are home to a city. Yamrean Island is home to Gernrom city. Grouleac is home to Trulnyl city. Finally, Numrar Island is home to Bretlyn city. Other cities exist, although most of them are in mountains or underground.
+Ilor is composed of three main islands. In order of decreasing size, these islands are [[Mount Yamrean|Yamrean Island]] to the southwest, [[Mount Grouleac|Grouleac Island]] to the north, and [[Mount Numrar|Numrar Island]] to the east. Each of these islands are home to a city. [[Mount Yamrean|Yamrean Island]] is home to Gernrom city. Grouleac is home to Trulnyl city. Finally, [[Mount Numrar|Numrar Island]] is home to Bretlyn city. Other cities exist, although most of them are in mountains or underground.
 
 ### Multinational Organizations and Involvement
 
 1. [[Alight Entertainment]]: The entertainment industry has not been able to establish any relations with the country, although they have hired a few Dwarves for their circus.
 2. [[Siaga]]: [[Siaga]] has made a contract with all of the major cities to provide them with a constant source of precious metals. 
-3. [[Race United]]: The [[Race United|RU]] has set up a military outpost on Grouleac Island. This is to protect Trulnyl city, but it is also to have direct access to the best blacksmiths on the planet. 
+3. [[Race United]]: The [[Race United|RU]] has set up a military outpost on [[Mount Grouleac|Grouleac Island]]. This is to protect Trulnyl city, but it is also to have direct access to the best blacksmiths on the planet. 
 4. [[Void Space Legion]]: The [[Void Space Legion|VSL]] has been spotted talking with the Eujmis in hopes of learning more about the ancient forge. However, the reasons for which are unknown.
 5. [[Urifir Bookbasin]]: The researchers of the Bookbasin have paid high prices to enter the mines of Gernrom city and study their precious gems. However, it is said that they are given a discount since they are sharing information that is simply increasing the Dwarven fame.
 6. [[Leafwalker Industries]]: Every day, large amounts of ale are delivered to each of the cities of the country. They probably receive more than just gold from the Dwarves.
